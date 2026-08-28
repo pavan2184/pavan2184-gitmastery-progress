@@ -231,5 +231,14 @@
       "You have reverted the commits in the wrong order!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787889581.340874,
+    "completed_at": 1787889582.628842,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
   }
 ]
